@@ -1,8 +1,4 @@
 Desafio 1: Conceitos do NodeJS
-“Sua única limitação é você mesmo”!
-
-GitHub language count Made by Rocketseat License Stargazers
-
 
 🚀 Sobre o desafio
 Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando Express.
